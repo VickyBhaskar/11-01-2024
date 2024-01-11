@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sMOQeuDPkJoZEADgEsLEAjg3UZS58+MSf3xu5nH/zUCK9UFPNNoZsxBd5xhEaBUqITw+twE8NKGE56+YWCqg9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vicky\\OneDrive\\Desktop\\Mphasis\\Phase4\\11-01-2024\\MoviesConApp\\MoviesConApp\\MoviesConApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vicky\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
